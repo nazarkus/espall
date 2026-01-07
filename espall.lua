@@ -4,3 +4,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/nazarkus/plane-esp/re
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nazarkus/heli-esp/refs/heads/main/heli%20esp.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nazarkus/droneesp/refs/heads/main/droneesp.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nazarkus/ac130esp/refs/heads/main/ac130esp.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nazarkus/boatesp/refs/heads/main/boatesp.lua"))()
