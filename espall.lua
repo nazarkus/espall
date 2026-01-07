@@ -7,3 +7,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/nazarkus/ac130esp/ref
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nazarkus/boatesp/refs/heads/main/boatesp.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nazarkus/hovercraftesp/refs/heads/main/hovercraftesp.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nazarkus/vehicleesp/refs/heads/main/vehicleesp.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nazarkus/tankesp/refs/heads/main/tankesp.lua"))()
